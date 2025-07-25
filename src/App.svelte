@@ -86,7 +86,7 @@
       <img src={bts1} alt="Behind the scenes of Crayon 5 with giant props" class="article-image">
       <p class="caption">Actors in mo-cap suits next to a crayon the size of a bus. Notice the darker lighting - this isn't your typical Crayon movie.</p>
 
-      <h2>2. The directors are back, and they're taking a RISKY turn.</h2>
+      <h2>2. The directors are back now, and they're taking a RISKY turn.</h2>
       <p>The acclaimed directors of the last four films are back, bringing their unique, meticulous style. But this time, they're reportedly exploring the darker side of the Crayonverse. Insiders are reporting that the film will feature entire cities and landscapes built from crayon wax, but with a sinister twist - Robbie and Jack might be the villains this time around.</p>
       <img src={bts2} alt="Director on the set of Crayon 5" class="article-image">
       <p class="caption">The director giving notes to an actor in a blue crayon costume. The mood on set is reportedly much more intense.</p>
